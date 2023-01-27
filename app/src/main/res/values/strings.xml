@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Miracles</string>
+    <string name="home_title">Витрати</string>
+    <string name="cart_title">Кошик</string>
+    <string name="profile_title">Профіль</string>
+    <string name="signin_title">Увійти</string>
+    <string name="signup_title">Зареєструватись</string>
+    <string name="checkout_title">Оформити замовлення</string>
+    <string name="back_button">Назад</string>
+    <string name="favorites_title">Назад</string>
+    <string name="no_orders_text">Немає замовлень. Зробіть перше замовлення.</string>
+    <string name="category_title">Усі товари</string>
+</resources>
